@@ -19,7 +19,7 @@ We don't actually know what to do about this or how to fix it, sorry.
 
 <details><summary><h3>(script) is not working?</h3></summary>
 
-Make sure you're running it properly (see [How to use](https://github.com/Coding4hours/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/05Konz/Blooket-Cheats/issues)
+Make sure you're running it properly (see [How to use](https://github.com/Coding4hours/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/Coding4hours/Blooket-Cheats/issues)
 </details>
 
 <details><summary><h3>Which script should I use to make a bookmarklet?</h3></summary>
